@@ -1,0 +1,24 @@
+# Binaries
+stalwart
+*.exe
+
+# Tarballs and archives
+*.tar.gz
+*.tgz
+*.zip
+
+# Downloaded artifacts
+stalwart-*
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
